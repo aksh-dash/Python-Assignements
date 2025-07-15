@@ -1,0 +1,77 @@
+📘 Python Math Assignments - Factorial & Math Calculations
+This repository contains two basic Python programs that demonstrate:
+
+Recursive function to calculate factorial of a number.
+
+Use of Python's math module to calculate square root, logarithm, and sine of a number.
+
+📂 Contents
+🔹 ASSIGNMENT_3.1 - Factorial Using Recursion
+This program takes an integer input from the user and calculates its factorial using a recursive function.
+
+Example:
+
+mathematica
+Copy
+Edit
+Enter a number: 5  
+Factorial of 5 is 120
+🔹 ASSIGNMENT_3.2 - Math Calculations using math Module
+This program uses the built-in Python math module to calculate the:
+
+Square root
+
+Natural logarithm
+
+Sine value
+
+Example:
+
+csharp
+Copy
+Edit
+Enter a number: 9  
+Square root of 9 is 3.0  
+Logarithm of 9 is 2.1972245773362196  
+Sine of 9 is 0.4121184852417566
+🔧 Requirements
+Python 3.x
+
+No external libraries required (only built-in modules used)
+
+▶️ How to Run
+Clone this repository:
+
+bash
+Copy
+Edit
+git clone https://github.com/your-username/math-assignments.git
+Navigate to the directory:
+
+bash
+Copy
+Edit
+cd math-assignments
+Run the scripts:
+
+bash
+Copy
+Edit
+python assignment_3.1.py
+python assignment_3.2.py
+📌 Notes
+The factorial function uses recursion, which is a common programming technique.
+
+The second script uses math module functions like sqrt(), log(), and sin() which require numeric inputs.
+
+Make sure to enter valid integers when prompted to avoid runtime errors.
+
+📚 Learning Goals
+Understand recursive functions in Python.
+
+Learn to use built-in Python libraries like math.
+
+Get familiar with basic mathematical operations in programming.
+
+📎 License
+This project is open-source and available under the MIT License.
