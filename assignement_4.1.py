@@ -1,0 +1,8 @@
+file = open('sample.txt', 'w')
+file.write('This is a sample text File\n')
+file.write('It contains multiple lines\n')
+print(file)
+file.close()
+file = open('sample.txt', 'r')
+print(file.read())
+file.close()
