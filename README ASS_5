@@ -1,0 +1,84 @@
+# 🐍 Python Program: List and Dictionary Operations
+
+This repository contains a simple Python script that demonstrates two key concepts in Python programming:
+
+- **List Slicing and Reversal**
+- **Dictionary Key Lookup Based on User Input**
+
+It is designed for beginners to understand basic data structures and user interaction in Python.
+
+---
+
+## 📌 Functionality
+
+### 🔹 1. List Operations
+
+The script performs the following tasks using a list of integers from `1` to `10`:
+- **Display the original list**
+- **Extract the first five elements** using slicing: `list[0:5]`
+- **Reverse** the first five elements using slicing with step `-1`: `[::-1]`
+
+📥 **Example Output:**
+Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Extracted first five elements: [1, 2, 3, 4, 5]
+Reversed first five elements: [5, 4, 3, 2, 1]
+
+markdown
+Copy
+Edit
+
+---
+
+### 🔹 2. Dictionary Operations
+
+The script also demonstrates how to:
+- **Define a dictionary** containing student names as keys and marks as values.
+- **Prompt the user** to enter a name.
+- **Check if the entered name exists** in the dictionary.
+- **Print the marks** if found, or display `"Student not found."` if not.
+
+📥 **Example Output:**
+Enter a name: Bob
+Bob's marks: 30
+
+yaml
+Copy
+Edit
+
+---
+
+## 📁 File Included
+
+- `main.py` — The main Python script containing both list and dictionary operations.
+
+---
+
+## 🚀 How to Run
+
+Make sure Python 3.x is installed. Then run the program:
+
+```bash
+python main.py
+📚 Concepts Demonstrated
+List creation and slicing
+
+Reversing a list using slicing
+
+Dictionary key-value access
+
+Conditional checking (if...else)
+
+User input handling using input()
+
+✅ Ideal For
+Students and beginners learning Python
+
+Anyone looking to understand the basics of lists and dictionaries
+
+Small coding exercises or teaching demos
+
+🤝 Contributions
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+📃 License
+This project is open source and available under the MIT License.
